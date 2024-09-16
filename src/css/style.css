@@ -1,0 +1,26 @@
+h2{
+    font-size: 54px;
+}
+
+nav a{
+    font-weight: 700;
+}
+
+nav .nav-link{
+    font-weight: 700;
+}
+
+.card-img-top{
+    max-height: 300px;
+    min-height: 220px;
+}
+
+.carousel-caption h5{
+    color: #ffc107;
+    text-shadow: 2px 2px 2px black;
+}
+
+footer p{
+    font-weight: 700;
+    font-size: 20px;
+}
